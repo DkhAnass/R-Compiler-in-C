@@ -1,0 +1,87 @@
+# C'est un commentaire
+
+# Differentes formes d'expressions
+
+e <- 10
+
+a <- 1
+
+a -> b
+
+zz <- "3" + "2"
+
+c <- 10
+
+25 -> b
+
+a <- ( 25 ) - 88
+
+c <- (((((4))))*2)/5
+
+Nom <- "Yasser"
+
+Age <- 21	
+
+c(123.25 ,"hello") -> Vector
+
+c(222.22 ,"bnj") -> Vecteur
+
+Filiere <- "ISEM"
+
+Moyenne <- calculer_Moy(x,y)
+
+result <- a * b + c
+
+" Bonjour " -> string
+
+Matrix(3,2,3.5) -> a
+
+
+# Differentes formes de fonctions
+
+function(){} -> b
+
+function(x,y ,z ){}
+
+k <- function(){
+
+
+b <- 5;
+return 0;
+}
+
+
+# Appel  de fonction
+
+
+n(x,y,z) -> fonction_n
+
+hello("Mardi",12,2022)
+
+appel(212) -> test
+
+
+# Condition
+
+if( alpha > beta){
+	k <- 5
+}
+else{
+    k <- 10
+}
+
+
+# Différents formes de boucles
+
+
+for(a in c(2,"string",3.14)){
+	2 -> a
+}
+
+repeat{
+   "TEST" -> run
+}
+
+while( a<b){
+	ab <- "deux"
+}
